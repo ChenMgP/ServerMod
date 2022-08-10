@@ -1,0 +1,37 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.kcn.mixin",
+    "compatibilityLevel": "JAVA_16",
+    "mixins": [
+    ],
+    "client": [
+        "BrewingMixin",
+        "CreeperMixin",
+        "FoodMixin",
+        "ItemsMixin",
+        "WitherMixin",
+        "WitherSkullMixin",
+        "BlocksMixin",
+        "DeathMixin",
+        "BedRockMixin",
+        "PoopSheepMixin",
+        "PoopSheepGrassMixin",
+        "PoopCowMixin",
+        "PoopPigMixin",
+        "PoopChickenMixin"
+    ],
+    "server": [
+        "BrewingMixin",
+        "CreeperMixin",
+        "FoodMixin",
+        "ItemsMixin",
+        "WitherMixin",
+        "WitherSkullMixin",
+        "BlocksMixin",
+        "DeathMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

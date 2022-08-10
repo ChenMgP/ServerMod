@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "TIT",
+        "T T",
+        "TIT"
+    ],
+    "key": {
+        "I": {
+            "item": "kcn:iron_sheet"
+        },
+        "T": {
+            "item": "kcn:tempered_glass"
+        }
+    },
+    "result": {
+        "item": "kcn:container"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "kcn:block/oxygen_machine",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "kcn:block/oxygen_machine"
+    },
+    "facing=south": {
+      "model": "kcn:block/oxygen_machine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kcn:block/oxygen_machine",
+      "y": 270
+    }
+  }
+}

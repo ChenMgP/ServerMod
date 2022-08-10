@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:pumpkin_seeds"
+  },
+  "result": "kcn:baked_pumpkin_seeds",
+  "experience": 0.1,
+  "cookingtime": 60
+}

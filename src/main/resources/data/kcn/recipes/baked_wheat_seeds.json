@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:wheat_seeds"
+  },
+  "result": "kcn:baked_wheat_seeds",
+  "experience": 0.1,
+  "cookingtime": 60
+}

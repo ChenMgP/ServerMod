@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "kcn:block/remove_enchant_table",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "kcn:block/remove_enchant_table"
+    },
+    "facing=south": {
+      "model": "kcn:block/remove_enchant_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kcn:block/remove_enchant_table",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bowl"
+        },
+        {
+            "item": "minecraft:cooked_porkchop"
+        },
+        {
+            "item": "minecraft:cooked_porkchop"
+        },
+        {
+            "item": "minecraft:cooked_beef"
+        },
+        {
+            "item": "minecraft:cooked_beef"
+        },
+        {
+            "item": "minecraft:cooked_mutton"
+        },
+        {
+            "item": "minecraft:cooked_mutton"
+        }
+    ],
+    "result": {
+        "item": "kcn:meat_soup"
+    }
+}

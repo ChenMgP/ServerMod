@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " G ",
+        "GAG",
+        " G "
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "kcn:essence_stone"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IBC",
+        "IMT",
+        "IBC"
+    ],
+    "key": {
+        "I": {
+            "item": "kcn:iron_sheet"
+        },
+        "T": {
+            "item": "kcn:tempered_glass"
+        },
+        "C": {
+            "item": "kcn:control_panel"
+        },
+        "M": {
+            "item": "kcn:machine_frame"
+        },
+        "B": {
+            "item": "kcn:battery"
+        }
+    },
+    "result": {
+        "item": "kcn:oxygen_machine"
+    }
+}

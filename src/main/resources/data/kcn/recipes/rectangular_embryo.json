@@ -1,0 +1,15 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "T"
+    ],
+    "key": {
+        "T": {
+            "item": "minecraft:terracotta"
+        }
+    },
+    "result": {
+        "item": "kcn:rectangular_embryo",
+        "count": 2
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "kcn:essence_stone"
+        },
+        "title": "恶~~~~",
+        "description": "吃下一个粪便或喝下一碗粪便汤",
+        "frame": "challenge",
+        "background": "kcn:textures/gui/back.png",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "eat": {
+            "trigger": "minecraft:consume_item",
+            "condition": {
+                "item": {
+                    "items": ["kcn:poop","kcn:poop_soup"]
+                }
+            }
+        }
+    }
+}

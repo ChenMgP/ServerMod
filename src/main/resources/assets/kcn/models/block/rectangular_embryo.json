@@ -1,0 +1,27 @@
+{
+    "parent": "block/block",
+	"textures": {
+		"0": "kcn:block/hardened_clay",
+		"particle": "kcn:block/hardened_clay"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 5],
+			"to": [10, 4, 11],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 6, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 6, 4], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 6], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [33, -36.5, 0],
+			"translation": [0.5, 4.5, 2.5]
+		}
+	}
+}

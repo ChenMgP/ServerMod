@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DRD",
+        "GEG",
+        "DGD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "E": {
+            "item": "minecraft:enchanting_table"
+        },
+        "G": {
+            "item": "minecraft:gold_block"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        }
+    },
+    "result": {
+        "item": "kcn:remove_enchant_table"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "kcn:block/dust_machine",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "kcn:block/dust_machine"
+    },
+    "facing=south": {
+      "model": "kcn:block/dust_machine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kcn:block/dust_machine",
+      "y": 270
+    }
+  }
+}

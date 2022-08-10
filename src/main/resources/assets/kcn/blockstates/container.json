@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "lava=0,water=0,milk=0,other=true": {
+            "model": "kcn:block/container/c_empty"
+        },
+        "lava=1,water=0,milk=0,other=false": {
+            "model": "kcn:block/container/c_lava_1"
+        },
+        "lava=2,water=0,milk=0,other=false": {
+            "model": "kcn:block/container/c_lava_2"
+        },
+        "lava=3,water=0,milk=0,other=false": {
+            "model": "kcn:block/container/c_lava_3"
+        },
+        "lava=4,water=0,milk=0,other=false": {
+            "model": "kcn:block/container/c_lava_4"
+        },
+        "lava=5,water=0,milk=0,other=false": {
+            "model": "kcn:block/container/c_lava_5"
+        },
+        "water=1,lava=0,milk=0,other=false": {
+            "model": "kcn:block/container/c_water_1"
+        },
+        "water=2,lava=0,milk=0,other=false": {
+            "model": "kcn:block/container/c_water_2"
+        },
+        "water=3,lava=0,milk=0,other=false": {
+            "model": "kcn:block/container/c_water_3"
+        },
+        "water=4,lava=0,milk=0,other=false": {
+            "model": "kcn:block/container/c_water_4"
+        },
+        "water=5,lava=0,milk=0,other=false": {
+            "model": "kcn:block/container/c_water_5"
+        },
+        "milk=1,water=0,lava=0,other=false": {
+            "model": "kcn:block/container/c_milk_1"
+        },
+        "milk=2,water=0,lava=0,other=false": {
+            "model": "kcn:block/container/c_milk_2"
+        },
+        "milk=3,water=0,lava=0,other=false": {
+            "model": "kcn:block/container/c_milk_3"
+        },
+        "milk=4,water=0,lava=0,other=false": {
+            "model": "kcn:block/container/c_milk_4"
+        },
+        "milk=5,water=0,lava=0,other=false": {
+            "model": "kcn:block/container/c_milk_5"
+        }
+    }
+}

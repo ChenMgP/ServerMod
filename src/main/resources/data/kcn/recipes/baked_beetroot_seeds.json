@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:beetroot_seeds"
+  },
+  "result": "kcn:baked_beetroot_seeds",
+  "experience": 0.1,
+  "cookingtime": 60
+}
